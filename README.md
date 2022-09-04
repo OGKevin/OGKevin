@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### Todoist
-I am a Todoist <td-kl>Professional</td-kl> with <td-kc>5k</td-kc> karma points.
+I am a Todoist <td-kl>Professional</td-kl> with <td-kc>6k</td-kc> karma points.
 
 🚧 **some stats:**           
-🏆  <td-kc>5k</td-kc> Karma Points           
-✅  Completed <td-ttc>234</td-ttc> tasks so far           
+🏆  <td-kc>6k</td-kc> Karma Points           
+✅  Completed <td-ttc>338</td-ttc> tasks so far           
 ⏳  Longest streak is <td-mdsc>18</td-mdsc> days
 
 <!--
