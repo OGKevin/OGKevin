@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## Todoist
-I am a Todoist <td-kl>Professional</td-kl> with <td-kc></td-kc> karma points.
+I am a Todoist <td-kl>Professional</td-kl> with <td-kc>5k</td-kc> karma points.
 
 🚧 **some stats:**           
-🏆  <td-kc></td-kc> Karma Points           
-✅  Completed <td-ttc></td-ttc> tasks so far           
-⏳  Longest streak is <td-mdsc></td-mdsc> days
+🏆  <td-kc>5k</td-kc> Karma Points           
+✅  Completed <td-ttc>234</td-ttc> tasks so far           
+⏳  Longest streak is <td-mdsc>18</td-mdsc> days
 
 <!--
 **OGKevin/OGKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
