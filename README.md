@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Todoist <td-kl></td-kl>
+<td-ka></td-ka>
+
 <!--
 **OGKevin/OGKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
