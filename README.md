@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Todoist
+#### Todoist
 I am a Todoist <td-kl>Professional</td-kl> with <td-kc>5k</td-kc> karma points.
 
 🚧 **some stats:**           
