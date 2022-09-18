@@ -1,0 +1,32 @@
+name: Generate github stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Generate github stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tailscale
+        uses: tailscale/github-action@v1
+        with:
+          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
+          version: "1.30.0"
+          args: "--accept-routes"
+      - name: Load secret
+        id: op-load-secret
+        uses: 1password/load-secrets-action@main
+        env:
+          OP_CONNECT_HOST: http://192.168.1.245
+          OP_CONNECT_TOKEN: ${{ secrets.OP_CONNECT_TOKEN }}
+          SUMMARY_GITHUB_TOKEN: op://home-lab/SUMMARY_GITHUB_TOKEN/password
+      - name: GitHub-Profile-Summary-Cards
+        uses: OGKevin/github-profile-summary-cards@master
+        env:
+            GITHUB_TOKEN: ${{ steps.op-load-secret.outputs.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 0
