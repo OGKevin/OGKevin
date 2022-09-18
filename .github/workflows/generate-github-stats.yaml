@@ -25,8 +25,7 @@ jobs:
           SUMMARY_GITHUB_TOKEN: op://home-lab/SUMMARY_GITHUB_TOKEN/password
       - name: GitHub-Profile-Summary-Cards
         uses: OGKevin/github-profile-summary-cards@master
-        env:
-            GITHUB_TOKEN: ${{ steps.op-load-secret.outputs.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 0
+          GITHUB_TOKEN: ${{ steps.op-load-secret.outputs.SUMMARY_GITHUB_TOKEN }}
