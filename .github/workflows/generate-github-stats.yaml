@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
+  generate-github-stats:
     name: Generate github stats
     runs-on: ubuntu-latest
     steps:
