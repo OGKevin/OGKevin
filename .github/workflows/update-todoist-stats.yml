@@ -20,7 +20,7 @@ jobs:
         id: op-load-secret
         uses: 1password/load-secrets-action@main
         env:
-          OP_CONNECT_HOST: http://192.168.1.245
+          OP_CONNECT_HOST: http://100.99.73.138
           OP_CONNECT_TOKEN: ${{ secrets.OP_CONNECT_TOKEN }}
           TODOIST_API_KEY: op://home-lab/todoist-token/password
       - uses: actions/checkout@v2
