@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am a Todoist <td-kl>Expert</td-kl> with <td-kc>8k</td-kc> karma points.
+I am a Todoist <td-kl>Expert</td-kl> with <td-kc>9k</td-kc> karma points.
 
 🚧 **some stats:**           
-🏆  <td-kc>8k</td-kc> Karma Points           
-✅  Completed <td-ttc>548</td-ttc> tasks so far           
+🏆  <td-kc>9k</td-kc> Karma Points           
+✅  Completed <td-ttc>597</td-ttc> tasks so far           
 ⏳  Longest streak is <td-mdsc>18</td-mdsc> days
 
 [![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
