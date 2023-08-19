@@ -23,7 +23,7 @@ jobs:
           OP_CONNECT_HOST: http://100.99.73.138
           OP_CONNECT_TOKEN: ${{ secrets.OP_CONNECT_TOKEN }}
           SUMMARY_GITHUB_TOKEN: op://home-lab/SUMMARY_GITHUB_TOKEN/password
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: GitHub-Profile-Summary-Cards
         uses: OGKevin/github-profile-summary-cards@master
         with:
