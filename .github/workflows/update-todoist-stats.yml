@@ -23,7 +23,7 @@ jobs:
           OP_CONNECT_HOST: http://100.99.73.138
           OP_CONNECT_TOKEN: ${{ secrets.OP_CONNECT_TOKEN }}
           TODOIST_API_KEY: op://home-lab/todoist-token/password
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@3df4ab11eba7bda6032a0b82a6bb43b11571feac # v4
       - uses: OGKevin/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ steps.op-load-secret.outputs.TODOIST_API_KEY }}
