@@ -7,11 +7,6 @@ Currently working as a System Engineer in the internal Observability team at Clo
 
 ![Metrics - Music](https://raw.githubusercontent.com/OGKevin/OGKevin/main/github-metrics.svg)
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OGKevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGKevin&layout=compact&langs_count=8&theme=tokyonight"/>
-
 ## 🔥 Contribution Streak
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">

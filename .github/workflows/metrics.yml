@@ -18,8 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: OGKevin
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Amsterdam
           
@@ -39,9 +38,9 @@ jobs:
           plugin_languages_threshold: 0%
           
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 2
           
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
