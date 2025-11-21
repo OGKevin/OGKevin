@@ -1,16 +1,24 @@
-[![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
 
-### Hi there 👋
+# Hi there 👋
 
-I am a Todoist <td-kl>Expert</td-kl> with <td-kc>9k</td-kc> karma points.
+I am Kevin, a SWE at ❤️ with SRE knowledge.
+Currently working as a System Engineer in the internal Observability team at Cloudflare.
 
-🚧 **some stats:**           
-🏆  <td-kc>9k</td-kc> Karma Points           
-✅  Completed <td-ttc>687</td-ttc> tasks so far           
-⏳  Longest streak is <td-mdsc>18</td-mdsc> days
+![Metrics - Music](https://raw.githubusercontent.com/OGKevin/OGKevin/main/github-metrics.svg)
 
-[![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OGKevin/OGKevin/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OGKevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGKevin&layout=compact&langs_count=8&theme=tokyonight"/>
+
+## 🔥 Contribution Streak
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OGKevin&theme=tokyonight" alt="GitHub Streak Stats" />
+</a>
+
+</div>
 
 
 <!--
